@@ -1,4 +1,5 @@
 export default {
-    "token": "Bot token",
+    client.login(process.env.TOKEN);
+
     "status": "Hello world"
 }
